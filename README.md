@@ -36,3 +36,6 @@ fetch('https://<твій-worker>.workers.dev/')
 2. В `index.html` знайди `const BA_PHOTOS` і впиши шляхи:
    `const BA_PHOTOS={before:'img/before.jpg', after:'img/after.jpg'};`
 Поки фото не вказані, показується згенерована демо-сцена (плитка після ремонту).
+
+## Фото на сайті
+Усі фото лежать у `img/` (kitchen.jpg, bath.jpg, room.jpg, windows.jpg тощо). Щоб замінити на оригінали, поклади файл з тією ж назвою. Бажано від 1600 px по довшій стороні.
